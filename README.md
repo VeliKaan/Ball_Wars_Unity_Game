@@ -40,7 +40,11 @@ Gain one random power‑up each round. Each lasts for a short duration:
 
 ## 📸 Screenshots
 
+![vlcsnap-2025-05-07-09h51m36s220](https://github.com/user-attachments/assets/f3103284-416d-428d-b23e-1f5e65d24718)
+![vlcsnap-2025-05-07-09h52m10s483](https://github.com/user-attachments/assets/e5e502a7-5474-479f-8877-c61cedeba891)
 
 
-## 🎥 Gameplay Demo
-[![Watch the gameplay video](https://img.youtube.com/vi/oEwamK8ptMQ/0.jpg)](https://youtu.be/oEwamK8ptMQ)  
+## 🎥 Gameplay Demo  
+https://github.com/user-attachments/assets/461d615d-ced4-4d39-8c62-4d34ab00a90b
+
+
