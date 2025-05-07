@@ -43,4 +43,4 @@ Gain one random power‑up each round. Each lasts for a short duration:
 
 
 ## 🎥 Gameplay Demo
-
+[![Watch the gameplay video](https://img.youtube.com/vi/oEwamK8ptMQ/0.jpg)](https://youtu.be/oEwamK8ptMQ)  
